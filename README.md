@@ -1,5 +1,7 @@
 # Nmap-Tool
-This Nmap Tool Shows Every (almost) command of nmap, and they are executable on the tool
+Nmap It's an advanced tool to scan Network
+This Tool Shows Every (almost) command of nmap, in a fancy way
+there are these commands + functions in the tool
 
 [ipconfig] shows your ip
 [nmap -sV] Version detection                 [nmap -A] Aggressive scan                    [nmap -sC] Default scripts
@@ -23,4 +25,3 @@ This Nmap Tool Shows Every (almost) command of nmap, and they are executable on 
 [--reason] Show reasons                      [--open] Show open ports                     [--packet-trace] Trace packets
 [--iflist] Interface list                    [--resume] Resume scan
 
-these are the ones that are there
